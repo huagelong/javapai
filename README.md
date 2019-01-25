@@ -1,2 +1,2 @@
 # javaadmin
-use springboot2
+java simple project
