@@ -1,0 +1,2 @@
+# javaadmin
+use springboot2
